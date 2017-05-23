@@ -4,4 +4,4 @@ window.onload = function(){
   button.addEventListener("click", function(event){
     prompt('What is your email?')
   });
-}
+};
